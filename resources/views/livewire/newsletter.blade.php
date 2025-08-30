@@ -41,4 +41,5 @@
         </div>
 
         {{-- A standard submit button that triggers the `wire:submit` action on the form. --}}
-        <button type="submit" class="text-white bg-green-700 hover:bg-green-900 focus
+        {{-- Centering container for the button --}}
+         <button type="submit" class="text-white bg-green-700 hover:bg-green-900 focus:ring-4 focus:outline-none focus:ring-green-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center">Magpasa</button>
